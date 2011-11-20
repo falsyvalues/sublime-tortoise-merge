@@ -1,3 +1,3 @@
 [
-    { "caption": "Diff Files with Tortoise Merge…", "command": "tortoise_merge", "args": {"files": []} }
+    { "caption": "Diff Files with TortoiseMerge…", "command": "tortoise_merge", "args": {"files": []} }
 ]
